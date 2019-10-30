@@ -11,5 +11,5 @@
 
 
 # week6
-heap_sort
+* [heap sort](https://github.com/hsuanwen0114/sharon8811437/tree/master/heapsort)
 
