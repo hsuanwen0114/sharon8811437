@@ -5,4 +5,4 @@
 * 基本步驟分為拆解與合併
 
 
-[image]
+[!image]https://github.com/hsuanwen0114/sharon8811437/blob/master/merge%20sort/merge%20sort.png
