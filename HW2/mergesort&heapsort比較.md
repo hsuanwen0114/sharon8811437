@@ -6,7 +6,7 @@
 
 
 
-
+![image](https://github.com/hsuanwen0114/sharon8811437/blob/master/heapsort/mergesort%26heapsort%E6%AF%94%E8%BC%83%E5%9C%96.png)
 
 mergesort的原理是先將陣列分開再重新排序並合併  
 heapsort是將他們先排序成max tree or min tree再用swap把位置交換  
