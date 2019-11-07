@@ -1,6 +1,12 @@
 # mergesort&heapsort比較  
 
-* merge sort:  
+* merge sort:   
+合併排序法，會需要使用到空間，但相對的它在時間複雜度的表現，比其它幾個演算法優質些。
+使用Divide and Conquer的演算法來實作。
+
+
+
+
 
 mergesort的原理是先將陣列分開再重新排序並合併  
 heapsort是將他們先排序成max tree or min tree再用swap把位置交換  
