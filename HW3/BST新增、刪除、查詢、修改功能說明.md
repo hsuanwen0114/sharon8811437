@@ -3,9 +3,13 @@
 很重要的基本條件是：`左邊子樹一定要大於右邊子樹`  
 左子樹只要不為空的話，左子樹上所有節點的值都小於根節點的值。  
 右子樹只要不為空的話，右子樹上所有節點的值都大於根節點的值。  
+
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/bst%E5%8E%9F%E7%90%86.png)
+參考資料：！[binary search tree原理]（http://marklin-blog.logdown.com/posts/1731603）
 
 ## 新增
+
+
 ## 刪除
 ## 查詢
 
