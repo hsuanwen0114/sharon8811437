@@ -74,19 +74,16 @@ class linkedList:
 ## 流程圖
 
 ### insert
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/insert%20bst.jpg)  
 ### search
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/search%20bst.jpg)  
 ### delete
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/delete%20bst.jpg)  
 ### modify
 這個不需要流程圖，我打這個的時間大概是delete的1/20   
 
 
+整體參考資料： 老師放在moodle的投影片  
 
-
-
-
-
-
-
-
-
+我真的覺得一次比一次還難，上一個作業花了大概五天去完成，這次花了快一個禮拜   
+打完後真的有點想哭  
