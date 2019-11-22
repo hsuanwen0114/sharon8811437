@@ -71,13 +71,13 @@ class linkedList:
 接下來就可以開始用binary search tree！！（好累喔程式債真的不能欠fk）    
 
 
-##流程圖
+## 流程圖
 
-###insert
-###search
+### insert
+### search
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/search%20bst.jpg)  
-###delete
-###modify
+### delete
+### modify
 這個不需要流程圖，我打這個的時間大概是delete的1/20   
 
 
