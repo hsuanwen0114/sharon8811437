@@ -1,12 +1,3 @@
-## 原理
-基本概念是將資料切成兩半，然後比較搜尋目標在這兩半的左邊或右邊，如果在左邊，將左邊的資料再切成兩半，以此類推，最後尋找到目標物為止。  
-很重要的基本條件是：`左邊子樹一定要大於右邊子樹`  
-左子樹只要不為空的話，左子樹上所有節點的值都小於根節點的值。  
-右子樹只要不為空的話，右子樹上所有節點的值都大於根節點的值。  
-
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/bst%E5%8E%9F%E7%90%86.png)  
-參考資料：
-[binary search tree原理]（http://marklin-blog.logdown.com/posts/1731603）
 
 ## 新增
 當要插入一個新節點時：  
@@ -29,7 +20,9 @@
 ## 修改
 修改有一個前提，`要修改的目標必須小於根節點右大於左子樹`  
 其他的情況，直接delete數字，再insert新的值  
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/bst%20modify.png)  
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/bst%20modify.png)    
+參考資料：  
+[](https://www.geeksforgeeks.org/modify-binary-tree-get-preorder-traversal-using-right-pointers/)  
 
 ## 查詢
 在樹中找一個值的基本概念和新增一樣  
