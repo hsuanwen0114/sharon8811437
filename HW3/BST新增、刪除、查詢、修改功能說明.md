@@ -22,7 +22,7 @@
 其他的情況，直接delete數字，再insert新的值  
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/bst%20modify.png)    
 參考資料：  
-[](https://www.geeksforgeeks.org/modify-binary-tree-get-preorder-traversal-using-right-pointers/)  
+[bst modify](https://www.geeksforgeeks.org/modify-binary-tree-get-preorder-traversal-using-right-pointers/)  
 
 ## 查詢
 在樹中找一個值的基本概念和新增一樣  
