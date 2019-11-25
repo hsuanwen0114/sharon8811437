@@ -8,7 +8,7 @@
 參考資料：  
 [binary search tree原理]（http://marklin-blog.logdown.com/posts/1731603）
 
-##學習歷程
+## 學習歷程  
 首先我記得老師上上週時上課說了如果link list不會，這次的作業就不會  
 因此我花了3天去寫我的 linl list `老師說不要欠程式債`  
 寫的時候沒有遇上什麼大問題  
