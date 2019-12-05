@@ -83,12 +83,20 @@ class linkedList:
 ### 流程圖 
 
 * add   
+顧名思義就是新增些什麼：）  
+好的狀態是當發生碰撞時把同個位置的key值串再一起才不會打架 
+不好的狀態就是當同個位置有兩個key值時只取一個，沒有將所有資料放進去  
 
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20add.png)   
 
-* remove   
+* remove 
+
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20remove.png)  
 
 * contains  
+有點像是binary search tree中的search  
+如果一開始就是None 回傳false
+如果上面的條件不成立就用迴圈來找值有找到傳true 沒找到就傳false（先node)  
+
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20contains.png)  
 
