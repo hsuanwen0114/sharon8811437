@@ -84,7 +84,11 @@ class linkedList:
 
 * add   
 
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20add.png)  
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20add.png)   
 
+* remove   
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20remove.png)  
 
+* contains  
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20contains.png)  
 
