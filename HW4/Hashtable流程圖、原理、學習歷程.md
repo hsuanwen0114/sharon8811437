@@ -15,7 +15,11 @@ hash table有個很重要的點就是碰撞（兩個資料存到同一個table�
 基本特性：  
 如果兩個雜湊值是不相同的（根據同一函式），那麼這兩個雜湊值的原始輸入也是不相同的（確定性）  
 湊函式一定有著有限的值域，比如固定長度的位元串  
- 
+
+#### 參考資料
+[hash function](https://zh.wikipedia.org/wiki/散列函數)  
+[hash table](https://blog.kdchang.cc/2016/09/23/javascript-data-structure-algorithm-dictionary-hash-table/)  
+[hash table](https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/)  
 
 ## 學習歷程 
 因為發生碰撞時需要用link list把資料串連再一起  
@@ -101,3 +105,4 @@ class linkedList:
 
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20contains.png)  
 
+[程式碼參考資料](https://kknews.cc/zh-tw/code/aj5g4x.html)  
