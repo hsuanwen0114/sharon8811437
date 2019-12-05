@@ -20,6 +20,7 @@ hash table有個很重要的點就是碰撞（兩個資料存到同一個table�
 [hash function](https://zh.wikipedia.org/wiki/散列函數)  
 [hash table](https://blog.kdchang.cc/2016/09/23/javascript-data-structure-algorithm-dictionary-hash-table/)  
 [hash table](https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/)  
+老師的上課資料
 
 ## 學習歷程 
 因為發生碰撞時需要用link list把資料串連再一起  
