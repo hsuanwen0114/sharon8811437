@@ -84,19 +84,5 @@ class MyHashSet:
 # In[92]:
 
 
-hashSet = MyHashSet()
-hashSet.add("dog")
-hashSet.add("pig")
-rel = hashSet.contains("pig")
-print(rel)
-rel = hashSet.contains("dog")
-print(rel)
-rel = hashSet.contains("cat")
-print(rel)
-hashSet.add("bird")
-rel = hashSet.contains("bird")
-print(rel)
-hashSet.remove("pig")
-rel = hashSet.remove("bird")
-print(rel)
+
 
