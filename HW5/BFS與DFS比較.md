@@ -10,7 +10,8 @@
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/BFS%26DFS/dfs.png)  
 
 # BFS(廣度優先搜尋法)  
-是一種圖形搜尋演算法。簡單的說，BFS是從根節點開始，沿著樹的寬度遍歷樹的節點。如果所有節點均被存取，則演算法中止。廣度優先搜尋的實現一般採用open-closed表。   
+是一種圖形搜尋演算法。簡單的說，BFS是從根節點開始，沿著樹的寬度遍歷樹的節點。如果所有節點均被存取，則演算法中止。廣度優先搜尋的實現一般採用open-closed表。 
+
 步驟：  
 1.以某一節點開始走訪，接著開始走訪與此節點相臨且並未拜訪的點  
 2.由走訪過的節點繼續進行先廣後深的搜尋  
@@ -29,7 +30,7 @@
 [參考資料](https://magiclen.org/dfs-bfs/)
 [參考資料](http://simonsays-tw.com/web/DFS-BFS/BreadthFirstSearch.html)
 [兩者比較參考](https://www.itread01.com/content/1541297601.html)
-## 學習歷程
+
 
 最近幾次寫程式碼真的有比較上手的感覺（也可能是ＨＷ3太難了）
 希望可以一直這樣循序漸進地寫完最後一個作業～～  
