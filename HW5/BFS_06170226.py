@@ -25,7 +25,7 @@ class Graph:
             s = queue.pop(0)
             s2.append(s)
             for child in self.graph[s]:
-                if child not in s2:
+                if child not in s2 and child not in queue:
                     queue.append(child)
         
         return s2
@@ -38,7 +38,7 @@ class Graph:
             s=stack.pop(-1)
             s2.append(s)
             for child in self.graph[s]:
-                if child not in s2:
+                if child not in s2 and child not in stack:
                     stack.append(child)
                     
         return s2
