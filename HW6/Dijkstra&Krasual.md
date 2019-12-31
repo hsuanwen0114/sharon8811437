@@ -21,6 +21,6 @@
 ![](https://github.com/hsuanwen0114/sharon8811437/blob/master/dijkstra/kruskal.png)  
 
 參考資料：  
-![dijkstral](https://ithelp.ithome.com.tw/articles/10209593)  
-![dijkstral流程圖參考](http://www.csie.ntnu.edu.tw/~u91029/Path.html)  
-![kruskal流程圖參考](http://nthucad.cs.nthu.edu.tw/~yyliu/personal/nou/04ds/kruskal.html)  
+[dijkstral](https://ithelp.ithome.com.tw/articles/10209593)  
+[dijkstral流程圖參考](http://www.csie.ntnu.edu.tw/~u91029/Path.html)  
+[kruskal流程圖參考](http://nthucad.cs.nthu.edu.tw/~yyliu/personal/nou/04ds/kruskal.html)  
