@@ -95,3 +95,4 @@ class Graph():
         return aaa
 
 
+#參考資料：老師上課、ppt、同學程式碼
