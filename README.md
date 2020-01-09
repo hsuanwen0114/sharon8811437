@@ -7,7 +7,11 @@
 讀巨資一方面是有興趣（還有聽起來賺錢），另一方面是這種行業比較能自由控管時間 
 以後畢業還想副業是走秀或拍時裝！喜歡自己排事情把行程塞滿滿 
 ## homework  
-[HW2](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW2)
+[HW2](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW2)  
+[HW3](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW3)  
+[HW4](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW4)  
+[HW5](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW5)  
+[HW6](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW6)  
 ## 一學期學習進度 
 ### week1  
 * 課程介紹  
