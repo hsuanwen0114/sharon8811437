@@ -11,10 +11,11 @@
 總之還是謝謝老師跟助教用另一種學習方法讓我們突破自己，突破成功的感覺真的蠻舒服的～～
 ### week1  
 * 課程介紹  
-###  week2  
+### week2 
 ### week3  
 ### week4  
 ### week5
+* 雙十節放假！
 ### week6  
 ### week7
 ### week8 
@@ -22,9 +23,15 @@
 ### week10
 ### week11  
 ### week12    
-### week13  
+### week13
+* Depth-First Search
+![]()
 ### week14
-### week15  
+* Minimum Spanning Tree  
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/dijkstra/kruskal.png)  
+### week15 
+* Shortest Path  
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/dijkstra/dijkstra.png)  
 ### week16  
 * Overview
 ### week17  
