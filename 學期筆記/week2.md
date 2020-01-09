@@ -1,3 +1,4 @@
+先附上我的程式碼
 ```class Nodes:
     def __init__(self,data=None):
         self.prev = None
@@ -56,4 +57,6 @@ class linkedList:
 連結串列(Linked List)是串列(List)的一種，是一種常見的資料結構，利用這個資料結構也能進一步實作出其他的資料結構，例如堆疊(Stack)和佇列(Queue)等。  
 它的特性是能夠不使用連續的記憶體空間的情況下，能夠保有並使用一份連續的資料；相對來看，陣列則需要使用連續的記憶體空間。  
 流程圖如下（擷取網路上）  
-![](https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d)
+![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202020-01-10%20%E4%B8%8A%E5%8D%883.11.37.png)  
+Linked-list是由一連串的節點（Node）所構成，每個節點指向下一個節點，而最後一個節點則指向Null（在python裡面是None）  
+因此，每個節點本身應該要有兩種屬性（attribute），一個是本身帶有的值或者是資料，另一個則是指向下一個節點的指標（pointer）  
