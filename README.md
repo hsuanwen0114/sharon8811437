@@ -9,47 +9,31 @@
 ### week1  
 * 課程介紹  
 ### week2 
-* linklist
-由於之前不是用leetcode的題目去寫，所以再一次在leedcode上寫～  
-
+* [linklist](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week2.md)
 ### week3  
 ### week4  
 ### week5
 * 雙十節放假！
 ### week6
 * Heap Sort
-![image](https://github.com/hsuanwen0114/sharon8811437/blob/master/heapsort/heapsort%E6%B5%81%E7%A8%8B%E5%9C%96.png)  
-再者要把max heap heap sort 如圖（由左到右，上到下） 
-![image](https://github.com/hsuanwen0114/sharon8811437/blob/master/heapsort/heapsort%E6%B5%81%E7%A8%8B%E5%9C%962.png)
 ### week7  
 * Merge Sort
-![image](https://github.com/hsuanwen0114/sharon8811437/blob/master/merge%20sort/merge%20sort.png)
+
 ### week8
 ### week9  
 * Binary Search Tree
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/binary%20search%20tree/bst%E5%8E%9F%E7%90%86.png)  
 ### week10  
 
 ### week11
 * Hash Table 
-add  
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20add.png)
-remove  
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20remove.png)  
-contains  
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/hashtable/hashtable%20contains.png)  
 ### week12 
 * Breadth-First Search
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/BFS%26DFS/%EF%BC%A2%EF%BC%A6%EF%BC%B3.png)  
 ### week13
 * Depth-First Search
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/BFS%26DFS/dfs.png)  
 ### week14
 * Minimum Spanning Tree  
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/dijkstra/kruskal.png)  
 ### week15 
 * Shortest Path  
-![](https://github.com/hsuanwen0114/sharon8811437/blob/master/dijkstra/dijkstra.png)  
 ### week16  
 * Overview
 ### week17  
