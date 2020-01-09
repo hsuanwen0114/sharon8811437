@@ -12,6 +12,12 @@
 [HW4](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW4)  
 [HW5](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW5)  
 [HW6](https://github.com/hsuanwen0114/sharon8811437/tree/master/HW6)  
+## Leetcode  
+[Design Linked List](https://github.com/hsuanwen0114/sharon8811437/blob/master/leetcode/707%23_Design%20Linked%20List_06170226.py)
+[Merge Two Sorted Lists](https://github.com/hsuanwen0114/sharon8811437/blob/master/leetcode/21%23_Merge%20Two%20Sorted%20Lists_06170226.py)  
+[Maximum Depth of Binary Tree](https://github.com/hsuanwen0114/sharon8811437/blob/master/leetcode/104%23_Maximum%20Depth%20of%20Binary%20Tree_06170226.py)  
+[Single Number](https://github.com/hsuanwen0114/sharon8811437/blob/master/leetcode/136%23_%20Single%20Number_06170226.py)  
+[Same Tree](https://github.com/hsuanwen0114/sharon8811437/blob/master/leetcode/100%23_Same%20Tree_06170226.py)  
 ## 一學期學習進度 
 ### week1  
 * 課程介紹  
