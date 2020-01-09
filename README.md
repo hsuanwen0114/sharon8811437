@@ -1,15 +1,17 @@
 # 我的演算法筆記欄！  
-### 個人簡介  
+## 個人簡介  
 陳璿文  
 巨資三Ｂ  
 061702226  
 喜歡跳舞！除了學生列一個身份是一個接案時裝模特兒（可能臉長得有特色） 
 讀巨資一方面是有興趣（還有聽起來賺錢），另一方面是這種行業比較能自由控管時間 
-以後畢業還想副業是走秀或拍時裝！喜歡自己排事情把行程塞滿滿  
+以後畢業還想副業是走秀或拍時裝！喜歡自己排事情把行程塞滿滿 
+
+## 一學期學習進度 
 ### week1  
 * 課程介紹  
 ### week2 
-* [linklist](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week2.md)
+* [linkedlist](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week2.md)
 ### week3 
 * [stack&queue](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week3.md)
 ### week4 
