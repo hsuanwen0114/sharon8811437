@@ -10,30 +10,31 @@
 * 課程介紹  
 ### week2 
 * [linklist](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week2.md)
-### week3  
-### week4  
+### week3 
+* [stack&queue](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week3.md)
+### week4 
+* [Quick sort](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week4.md)
 ### week5
 * 雙十節放假！
 ### week6
-* Heap Sort
+* [Heap Sort](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week6.md)
 ### week7  
-* Merge Sort
-
+* [Merge Sort](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week7.md)
 ### week8
 ### week9  
-* Binary Search Tree
+* [Binary Search Tree](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week9.md)
 ### week10  
-
+* [紅黑樹](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week10.md)
 ### week11
-* Hash Table 
+* [Hash Table](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week10.md)
 ### week12 
-* Breadth-First Search
+* [Breadth-First Search](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week12.md)
 ### week13
-* Depth-First Search
+* [Depth-First Search](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week13.md)
 ### week14
-* Minimum Spanning Tree  
+* [Minimum Spanning Tree](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week14.md)  
 ### week15 
-* Shortest Path  
+* [Shortest Path](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week15.md)  
 ### week16  
 * Overview
 ### week17  
