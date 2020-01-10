@@ -39,6 +39,7 @@
 ### week7  
 * [Merge Sort](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week7.md)
 ### week8
+* Binary tree
 ### week9  
 * [Binary Search Tree](https://github.com/hsuanwen0114/sharon8811437/blob/master/%E5%AD%B8%E6%9C%9F%E7%AD%86%E8%A8%98/week9.md)
 ### week10  
